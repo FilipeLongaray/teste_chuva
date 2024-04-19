@@ -1,0 +1,1 @@
+enum TpValor { double, dateTime }
